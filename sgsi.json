@@ -1,8 +1,8 @@
 {
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
-  "make_miui": true,
+  "rom_url": "https://archive.org/download/nothing-phone-1-firmware/2.0.5/d8c21c8c162c9677ba78e51305abaf5b0ccd30e2.zip",
+  "rom_name": "d8c21c8c162c9677ba78e51305abaf5b0ccd30e2.zip",
+  "pack_sgsi": "polaris_nothing_205.7z",
+  "make_miui": false,
   "make_flyme": false,
   "make_coloros": false,
   "make_h2os": false,
